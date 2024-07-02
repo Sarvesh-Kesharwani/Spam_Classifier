@@ -5,10 +5,12 @@ XPath (XML Path Language) is a query language used to navigate through elements 
 1. **Selection of Nodes**: XPath allows you to select nodes (elements) in an XML or HTML document. This can be based on various criteria, such as element names, attributes, and their values.
 
 2. **Syntax**: XPath expressions use a path-like syntax to specify the location of elements. For example:
+
    - `/html/body/div` selects the `<div>` element that is a direct child of the `<body>` element.
    - `//div[@class='example']` selects all `<div>` elements with the class `example`.
 
 3. **Relative and Absolute Paths**:
+
    - **Absolute Path**: Starts with a single `/` and specifies the exact location from the root element. Example: `/html/body/div[1]`.
    - **Relative Path**: Starts with `//` and can select nodes from anywhere in the document. Example: `//div[@class='example']`.
 
@@ -19,6 +21,7 @@ XPath (XML Path Language) is a query language used to navigate through elements 
 ### Example in HTML Context:
 
 Given the following HTML:
+
 ```html
 <html>
   <body>
@@ -32,6 +35,7 @@ Given the following HTML:
 ```
 
 **XPath Examples**:
+
 - `/html/body/div/h1`: Selects the `<h1>` element.
 - `//div[@class='container']`: Selects the `<div>` element with the class `container`.
 - `//p[text()='Some paragraph text.']`: Selects the `<p>` element containing the specified text.
