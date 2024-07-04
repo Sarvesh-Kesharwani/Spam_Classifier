@@ -1,2 +1,2 @@
-,society_name,property_title,property_rent,types_of_rooms_available,furnishing_details_lst
-0,Milan Heights,3 BHK Flat for rent,"₹55,000 /month",None,None
+,society_name,property_title,property_rent,types_of_rooms_available,furnishing_details_lst,bedroom_count,bathroom_count,balcony_count
+0,Milan Heights,3 BHK Flat for rent,"₹55,000 /month",None,None,3 Bedrooms,3 Bathrooms,2 Balconies
