@@ -1,0 +1,20 @@
+1. 2 purposes of ipynb notebook, 
+    1. to experiment with code or test code and see output of each small small steps of code.
+    2. once experimented and achieved a singlton functional level step, then 2nd purpose is to record that code in a organized way in same ipynb to show anyone else later that you experiemented this and this and you took these steps.
+
+my start:
+    once i have experimented my small small codes
+    i will not keep them in saperate ipynb code cells, 
+    but i will also combine them all in a single cell so that i can then
+    perform changes in that code and run code to record the expeirment in mlflow
+
+    otherwise i can use git, and instead of creating new new notebooks just for new expeirments(not talking about splitting notebook to keep length short like cleaning, feature engineering...) 
+    and what i can keep my code scattered in to saperate cells of same notebook but then i can use mlflow and git together to record/save the result of experiment and the experimented code both using mlflow and git consecutively.
+
+    so what i need to do is
+    1. 1st write code for first expeirment for ex: data encoding and running 8      algos.
+    2. then combing all this code in a single cell and use mlflow for recording the result of data, algo names, hyperparameters
+    3. and then before making change in that same code for ex: for adding a diff vectorizer or diff encoder or adding scaling, i will first git commit my code with the prev_experiment name and then peroform this new exp and keep doing instead
+
+    this way i'll be able to switch among the commits in same branch `ipynb`
+    and get the code that i used for a perticuler experiment.
