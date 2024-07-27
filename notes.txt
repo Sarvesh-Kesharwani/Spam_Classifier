@@ -25,3 +25,6 @@ switching to a perticuler commit with commit hash
 in a new branch, by not distubring the current valuable branch.
 
     git checkout -b new_branch_name commit_hashs
+
+
+2. also export the data after every step
