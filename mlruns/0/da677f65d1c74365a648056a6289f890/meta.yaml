@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/da677f65d1c74365a648056a6289f890/artifacts
+end_time: 1722088192001
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da677f65d1c74365a648056a6289f890
+run_name: stately-ram-438
+run_uuid: da677f65d1c74365a648056a6289f890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722088191936
+status: 4
+tags: []
+user_id: sarvesh.kesharwani
