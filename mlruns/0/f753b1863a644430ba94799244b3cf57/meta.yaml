@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/f753b1863a644430ba94799244b3cf57/artifacts
+end_time: 1722090532346
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f753b1863a644430ba94799244b3cf57
+run_name: efficient-stoat-950
+run_uuid: f753b1863a644430ba94799244b3cf57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722090531508
+status: 4
+tags: []
+user_id: sarvesh.kesharwani

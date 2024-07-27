@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/06ccf8a3d912423daf2834a3b9a43ab5/artifacts
+end_time: 1722090533297
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06ccf8a3d912423daf2834a3b9a43ab5
+run_name: bedecked-hare-234
+run_uuid: 06ccf8a3d912423daf2834a3b9a43ab5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722090532636
+status: 4
+tags: []
+user_id: sarvesh.kesharwani

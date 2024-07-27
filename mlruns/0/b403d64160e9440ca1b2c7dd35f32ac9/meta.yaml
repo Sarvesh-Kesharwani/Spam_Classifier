@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/b403d64160e9440ca1b2c7dd35f32ac9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b403d64160e9440ca1b2c7dd35f32ac9
+run_name: luminous-mole-269
+run_uuid: b403d64160e9440ca1b2c7dd35f32ac9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722091094212
+status: 1
+tags: []
+user_id: sarvesh.kesharwani

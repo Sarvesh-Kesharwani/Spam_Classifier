@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/30de7566613848fd82cf159f95b9db90/artifacts
+end_time: 1722090496746
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30de7566613848fd82cf159f95b9db90
+run_name: efficient-dove-533
+run_uuid: 30de7566613848fd82cf159f95b9db90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722090495997
+status: 4
+tags: []
+user_id: sarvesh.kesharwani

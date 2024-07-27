@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/5384a36fcdf94a908536073636eb7bdc/artifacts
+end_time: 1722090546901
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5384a36fcdf94a908536073636eb7bdc
+run_name: rebellious-crab-673
+run_uuid: 5384a36fcdf94a908536073636eb7bdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722090546125
+status: 4
+tags: []
+user_id: sarvesh.kesharwani

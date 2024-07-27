@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/444617cd48334bf8858ef1458ea8002a/artifacts
+end_time: 1722090496676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 444617cd48334bf8858ef1458ea8002a
+run_name: abrasive-loon-88
+run_uuid: 444617cd48334bf8858ef1458ea8002a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722090495930
+status: 4
+tags: []
+user_id: sarvesh.kesharwani

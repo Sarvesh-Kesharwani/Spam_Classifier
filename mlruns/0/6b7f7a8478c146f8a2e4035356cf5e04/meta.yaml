@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/6b7f7a8478c146f8a2e4035356cf5e04/artifacts
+end_time: 1722090568731
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b7f7a8478c146f8a2e4035356cf5e04
+run_name: thoughtful-sloth-268
+run_uuid: 6b7f7a8478c146f8a2e4035356cf5e04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722090568117
+status: 4
+tags: []
+user_id: sarvesh.kesharwani

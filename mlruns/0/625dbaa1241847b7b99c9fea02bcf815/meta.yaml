@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/625dbaa1241847b7b99c9fea02bcf815/artifacts
+end_time: 1722090784402
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 625dbaa1241847b7b99c9fea02bcf815
+run_name: judicious-turtle-468
+run_uuid: 625dbaa1241847b7b99c9fea02bcf815
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722090784050
+status: 4
+tags: []
+user_id: sarvesh.kesharwani

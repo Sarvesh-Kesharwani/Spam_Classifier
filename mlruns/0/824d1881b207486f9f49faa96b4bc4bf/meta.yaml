@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/824d1881b207486f9f49faa96b4bc4bf/artifacts
+end_time: 1722095973665
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 824d1881b207486f9f49faa96b4bc4bf
+run_name: blushing-crane-204
+run_uuid: 824d1881b207486f9f49faa96b4bc4bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722095937999
+status: 3
+tags: []
+user_id: sarvesh.kesharwani

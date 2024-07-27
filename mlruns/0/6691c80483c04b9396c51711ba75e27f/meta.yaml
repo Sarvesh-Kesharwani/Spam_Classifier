@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/6691c80483c04b9396c51711ba75e27f/artifacts
+end_time: 1722090567642
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6691c80483c04b9396c51711ba75e27f
+run_name: bustling-stag-934
+run_uuid: 6691c80483c04b9396c51711ba75e27f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722090567010
+status: 4
+tags: []
+user_id: sarvesh.kesharwani

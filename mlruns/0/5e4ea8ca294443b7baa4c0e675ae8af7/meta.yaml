@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/5e4ea8ca294443b7baa4c0e675ae8af7/artifacts
+end_time: 1722090520148
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e4ea8ca294443b7baa4c0e675ae8af7
+run_name: abrasive-roo-857
+run_uuid: 5e4ea8ca294443b7baa4c0e675ae8af7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722090519546
+status: 4
+tags: []
+user_id: sarvesh.kesharwani

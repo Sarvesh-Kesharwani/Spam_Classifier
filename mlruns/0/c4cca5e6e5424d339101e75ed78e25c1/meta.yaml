@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/c4cca5e6e5424d339101e75ed78e25c1/artifacts
+end_time: 1722094392445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c4cca5e6e5424d339101e75ed78e25c1
+run_name: funny-lamb-447
+run_uuid: c4cca5e6e5424d339101e75ed78e25c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722094352901
+status: 4
+tags: []
+user_id: sarvesh.kesharwani

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/1f9322a06ee944d18de1f65bc87cbe2a/artifacts
+end_time: 1722092069365
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f9322a06ee944d18de1f65bc87cbe2a
+run_name: valuable-turtle-138
+run_uuid: 1f9322a06ee944d18de1f65bc87cbe2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722092065036
+status: 4
+tags: []
+user_id: sarvesh.kesharwani

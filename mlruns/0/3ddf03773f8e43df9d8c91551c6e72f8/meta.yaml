@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/3ddf03773f8e43df9d8c91551c6e72f8/artifacts
+end_time: 1722090406029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ddf03773f8e43df9d8c91551c6e72f8
+run_name: receptive-dog-868
+run_uuid: 3ddf03773f8e43df9d8c91551c6e72f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722090402070
+status: 4
+tags: []
+user_id: sarvesh.kesharwani

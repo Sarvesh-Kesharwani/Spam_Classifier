@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/34dde8c81e564efba13054d757077797/artifacts
+end_time: 1722090453641
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34dde8c81e564efba13054d757077797
+run_name: sincere-carp-369
+run_uuid: 34dde8c81e564efba13054d757077797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722090452964
+status: 4
+tags: []
+user_id: sarvesh.kesharwani

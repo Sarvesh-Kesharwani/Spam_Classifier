@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/d7ea548e45d44232a0859e16c99876bc/artifacts
+end_time: 1722090496246
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7ea548e45d44232a0859e16c99876bc
+run_name: intelligent-bee-415
+run_uuid: d7ea548e45d44232a0859e16c99876bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722090495583
+status: 4
+tags: []
+user_id: sarvesh.kesharwani

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/686d46fb719f4454960860b22133e994/artifacts
+end_time: 1722090439473
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 686d46fb719f4454960860b22133e994
+run_name: colorful-swan-935
+run_uuid: 686d46fb719f4454960860b22133e994
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722090438477
+status: 4
+tags: []
+user_id: sarvesh.kesharwani

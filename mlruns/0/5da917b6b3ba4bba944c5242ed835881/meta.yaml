@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/5da917b6b3ba4bba944c5242ed835881/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5da917b6b3ba4bba944c5242ed835881
+run_name: traveling-hog-778
+run_uuid: 5da917b6b3ba4bba944c5242ed835881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722090949548
+status: 1
+tags: []
+user_id: sarvesh.kesharwani

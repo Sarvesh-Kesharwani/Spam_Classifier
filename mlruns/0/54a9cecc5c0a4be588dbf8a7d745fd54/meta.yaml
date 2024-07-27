@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/54a9cecc5c0a4be588dbf8a7d745fd54/artifacts
+end_time: 1722090567718
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 54a9cecc5c0a4be588dbf8a7d745fd54
+run_name: colorful-bass-696
+run_uuid: 54a9cecc5c0a4be588dbf8a7d745fd54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722090567090
+status: 4
+tags: []
+user_id: sarvesh.kesharwani

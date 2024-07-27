@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/7f07f1a8273b4014afef281dbc2a22f7/artifacts
+end_time: 1722090532987
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f07f1a8273b4014afef281dbc2a22f7
+run_name: placid-roo-462
+run_uuid: 7f07f1a8273b4014afef281dbc2a22f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722090532329
+status: 4
+tags: []
+user_id: sarvesh.kesharwani

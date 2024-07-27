@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/2fb75f0caa8a435887cb4eed4136c8af/artifacts
+end_time: 1722090421941
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fb75f0caa8a435887cb4eed4136c8af
+run_name: upset-boar-138
+run_uuid: 2fb75f0caa8a435887cb4eed4136c8af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722090421153
+status: 4
+tags: []
+user_id: sarvesh.kesharwani

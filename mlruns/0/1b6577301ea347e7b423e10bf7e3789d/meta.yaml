@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/1b6577301ea347e7b423e10bf7e3789d/artifacts
+end_time: 1722090453262
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b6577301ea347e7b423e10bf7e3789d
+run_name: handsome-rook-524
+run_uuid: 1b6577301ea347e7b423e10bf7e3789d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722090452650
+status: 4
+tags: []
+user_id: sarvesh.kesharwani

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/b420edfd46234efa85cf0634ec50c4e8/artifacts
+end_time: 1722090546489
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b420edfd46234efa85cf0634ec50c4e8
+run_name: masked-mole-492
+run_uuid: b420edfd46234efa85cf0634ec50c4e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722090545805
+status: 4
+tags: []
+user_id: sarvesh.kesharwani

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/8d402e8280154f6f9a8d2ab8a9f82528/artifacts
+end_time: 1722096161415
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d402e8280154f6f9a8d2ab8a9f82528
+run_name: silent-toad-63
+run_uuid: 8d402e8280154f6f9a8d2ab8a9f82528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722096139966
+status: 3
+tags: []
+user_id: sarvesh.kesharwani

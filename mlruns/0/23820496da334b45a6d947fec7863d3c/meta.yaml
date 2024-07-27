@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/23820496da334b45a6d947fec7863d3c/artifacts
+end_time: 1722091526057
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23820496da334b45a6d947fec7863d3c
+run_name: judicious-boar-949
+run_uuid: 23820496da334b45a6d947fec7863d3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722091521506
+status: 4
+tags: []
+user_id: sarvesh.kesharwani

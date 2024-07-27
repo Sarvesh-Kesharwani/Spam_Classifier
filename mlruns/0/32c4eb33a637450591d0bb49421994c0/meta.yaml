@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/32c4eb33a637450591d0bb49421994c0/artifacts
+end_time: 1722090520027
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32c4eb33a637450591d0bb49421994c0
+run_name: likeable-lark-339
+run_uuid: 32c4eb33a637450591d0bb49421994c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722090519472
+status: 4
+tags: []
+user_id: sarvesh.kesharwani

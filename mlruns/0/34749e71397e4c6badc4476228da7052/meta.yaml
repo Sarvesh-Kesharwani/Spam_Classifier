@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/34749e71397e4c6badc4476228da7052/artifacts
+end_time: 1722090557232
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34749e71397e4c6badc4476228da7052
+run_name: receptive-shrike-421
+run_uuid: 34749e71397e4c6badc4476228da7052
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722090556690
+status: 4
+tags: []
+user_id: sarvesh.kesharwani

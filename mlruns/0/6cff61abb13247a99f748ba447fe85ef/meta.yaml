@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/6cff61abb13247a99f748ba447fe85ef/artifacts
+end_time: 1722090437917
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6cff61abb13247a99f748ba447fe85ef
+run_name: popular-shrimp-744
+run_uuid: 6cff61abb13247a99f748ba447fe85ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722090436791
+status: 4
+tags: []
+user_id: sarvesh.kesharwani

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/13a765d47e974071b7bcf342c47abb6c/artifacts
+end_time: 1722090406069
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13a765d47e974071b7bcf342c47abb6c
+run_name: peaceful-loon-387
+run_uuid: 13a765d47e974071b7bcf342c47abb6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722090402189
+status: 4
+tags: []
+user_id: sarvesh.kesharwani

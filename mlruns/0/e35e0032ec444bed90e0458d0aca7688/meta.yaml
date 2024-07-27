@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/e35e0032ec444bed90e0458d0aca7688/artifacts
+end_time: 1722090422085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e35e0032ec444bed90e0458d0aca7688
+run_name: clumsy-goat-575
+run_uuid: e35e0032ec444bed90e0458d0aca7688
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722090421244
+status: 4
+tags: []
+user_id: sarvesh.kesharwani

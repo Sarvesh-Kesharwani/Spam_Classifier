@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/e7565479f141471e9df592ebed22755b/artifacts
+end_time: 1722096810629
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7565479f141471e9df592ebed22755b
+run_name: luxuriant-vole-796
+run_uuid: e7565479f141471e9df592ebed22755b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722096783829
+status: 3
+tags: []
+user_id: sarvesh.kesharwani

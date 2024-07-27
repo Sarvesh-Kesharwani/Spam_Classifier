@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/37c7a53c7c5d4752a16e94773b5a9df3/artifacts
+end_time: 1722090520124
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 37c7a53c7c5d4752a16e94773b5a9df3
+run_name: beautiful-conch-309
+run_uuid: 37c7a53c7c5d4752a16e94773b5a9df3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722090519552
+status: 4
+tags: []
+user_id: sarvesh.kesharwani
