@@ -18,3 +18,10 @@ my start:
 
     this way i'll be able to switch among the commits in same branch `ipynb`
     and get the code that i used for a perticuler experiment.
+
+
+
+switching to a perticuler commit with commit hash
+in a new branch, by not distubring the current valuable branch.
+
+    git checkout -b new_branch_name commit_hashs

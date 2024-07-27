@@ -1,0 +1,9 @@
+digest: '13567471'
+name: dataset
+profile: '{"features_shape": [4135, 7563], "features_size": 31273005, "features_nbytes":
+  125092020}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float32\", \"shape\": [-1, 7563]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "sarvesh.kesharwani", "mlflow.source.name": "c:\\Users\\sarvesh.kesharwani\\Pictures\\DSC\\Spam_Classifier\\.venv\\lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
