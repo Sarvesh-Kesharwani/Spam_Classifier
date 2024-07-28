@@ -1,10 +1,11 @@
-from nltk.corpus import stopwords
-from nltk.stem.porter import PorterStemmer
-import streamlit as st
-import pandas
 import pickle
 import string
+
 import nltk
+import pandas
+import streamlit as st
+from nltk.corpus import stopwords
+from nltk.stem.porter import PorterStemmer
 
 nltk.download("punkt")
 nltk.download("stopwords")
