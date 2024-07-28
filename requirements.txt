@@ -6,3 +6,4 @@ pillow==10.4.0
 nltk==3.8.1
 scikit-learn==1.5.1
 gunicorn==22.0.0
+flask==3.0.3
