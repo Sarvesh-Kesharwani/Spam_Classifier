@@ -15,6 +15,11 @@ input_sms = st.text_input("Enter the message")
 
 
 def transform_text(text):
+    """
+
+    :param text: 
+
+    """
     translator = str.maketrans("", "", string.punctuation)
     ps = PorterStemmer()
 
