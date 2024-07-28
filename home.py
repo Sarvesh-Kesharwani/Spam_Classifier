@@ -23,7 +23,7 @@ def transform_text(text):
                 clean_text.append(ps.stem(word))
     return ' '.join(clean_text)
 
-tfidf = pickle.load(open(r'C:\Users\sarvesh.kesharwani\Pictures\DSC\Spam_Classifier\artifacts\trained_vectorizer.pkl', 'rb'))
+tfidf = pickle.load(open(r'C:\Users\sarvesh.kesharwani\Pictures\DSC\Spam_Classifier\artifacts\tfidf_vectorizer.pkl', 'rb'))
 model = pickle.load(open(r'C:\Users\sarvesh.kesharwani\Pictures\DSC\Spam_Classifier\artifacts\model_mnb.pkl', 'rb'))
 
 if st.button('Predict'):
