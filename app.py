@@ -3,6 +3,8 @@ import pandas
 import pickle
 import string
 import nltk
+nltk.download('punkt')
+nltk.download('stopwords')
 from nltk.stem.porter import PorterStemmer
 from nltk.corpus import stopwords
 
@@ -23,8 +25,8 @@ def transform_text(text):
                 clean_text.append(ps.stem(word))
     return ' '.join(clean_text)
 
-tfidf = pickle.load(open(r'artifacts\tfidf_vectorizer.pkl', 'rb'))
-model = pickle.load(open(r'artifacts\model_mnb.pkl', 'rb'))
+tfidf = pickle.load(open(r'artifacts/tfidf_vectorizer.pkl', 'rb'))
+model = pickle.load(open(r'artifacts/model_mnb.pkl', 'rb'))
 
 if st.button('Predict'):
     input_sms = transform_text(input_sms)
