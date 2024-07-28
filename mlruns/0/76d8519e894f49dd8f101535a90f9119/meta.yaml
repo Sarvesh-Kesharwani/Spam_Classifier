@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/76d8519e894f49dd8f101535a90f9119/artifacts
+deleted_time: 1722150952206
 end_time: 1722090568719
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 76d8519e894f49dd8f101535a90f9119
 run_name: luminous-panda-943
 run_uuid: 76d8519e894f49dd8f101535a90f9119

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/663187352285086571/a1dfda404ce54995a9cfaae18185c579/artifacts
+deleted_time: 1722155194236
+end_time: 1722155020392
+entry_point_name: ''
+experiment_id: '663187352285086571'
+lifecycle_stage: deleted
+run_id: a1dfda404ce54995a9cfaae18185c579
+run_name: beautiful-seal-446
+run_uuid: a1dfda404ce54995a9cfaae18185c579
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722154970962
+status: 3
+tags: []
+user_id: sarvesh.kesharwani

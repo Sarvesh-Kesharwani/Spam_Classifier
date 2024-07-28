@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/cdf040119206404a91fac8ecbe275f3b/artifacts
+end_time: 1722155316511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cdf040119206404a91fac8ecbe275f3b
+run_name: XGBoost
+run_uuid: cdf040119206404a91fac8ecbe275f3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722155292017
+status: 3
+tags: []
+user_id: sarvesh.kesharwani

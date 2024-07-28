@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/248254436687240956/5cf82ae7e9c648889b5e9aaa6abef65a/artifacts
+end_time: 1722155486301
+entry_point_name: ''
+experiment_id: '248254436687240956'
+lifecycle_stage: active
+run_id: 5cf82ae7e9c648889b5e9aaa6abef65a
+run_name: MNB
+run_uuid: 5cf82ae7e9c648889b5e9aaa6abef65a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722155485584
+status: 3
+tags: []
+user_id: sarvesh.kesharwani

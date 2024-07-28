@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/d5261e0fe8e843a48843ded452c38c64/artifacts
+deleted_time: 1722150952392
 end_time: 1722090508181
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d5261e0fe8e843a48843ded452c38c64
 run_name: resilient-snail-779
 run_uuid: d5261e0fe8e843a48843ded452c38c64

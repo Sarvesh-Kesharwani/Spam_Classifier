@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/304e652ce5cb4cdf8a395aa466cdc418/artifacts
+deleted_time: 1722150952445
 end_time: null
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 304e652ce5cb4cdf8a395aa466cdc418
 run_name: spiffy-shrimp-155
 run_uuid: 304e652ce5cb4cdf8a395aa466cdc418

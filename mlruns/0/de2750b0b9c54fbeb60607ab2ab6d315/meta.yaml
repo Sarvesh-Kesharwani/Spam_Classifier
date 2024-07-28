@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/de2750b0b9c54fbeb60607ab2ab6d315/artifacts
+deleted_time: 1722150952453
 end_time: 1722090453646
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: de2750b0b9c54fbeb60607ab2ab6d315
 run_name: calm-pig-390
 run_uuid: de2750b0b9c54fbeb60607ab2ab6d315

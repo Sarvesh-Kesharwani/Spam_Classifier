@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/c88fd748857b4177bb3defd6906151f4/artifacts
+deleted_time: 1722150952310
 end_time: 1722090533149
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c88fd748857b4177bb3defd6906151f4
 run_name: welcoming-deer-637
 run_uuid: c88fd748857b4177bb3defd6906151f4

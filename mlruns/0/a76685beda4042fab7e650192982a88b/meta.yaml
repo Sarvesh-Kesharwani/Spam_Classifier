@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/a76685beda4042fab7e650192982a88b/artifacts
+deleted_time: 1722151552422
+end_time: 1722151452027
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a76685beda4042fab7e650192982a88b
+run_name: lyrical-perch-893
+run_uuid: a76685beda4042fab7e650192982a88b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722151415761
+status: 3
+tags: []
+user_id: sarvesh.kesharwani

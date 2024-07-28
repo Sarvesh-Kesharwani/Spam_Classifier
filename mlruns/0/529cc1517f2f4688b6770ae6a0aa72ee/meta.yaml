@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/529cc1517f2f4688b6770ae6a0aa72ee/artifacts
+deleted_time: 1722150952215
 end_time: 1722090568612
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 529cc1517f2f4688b6770ae6a0aa72ee
 run_name: capable-hound-372
 run_uuid: 529cc1517f2f4688b6770ae6a0aa72ee

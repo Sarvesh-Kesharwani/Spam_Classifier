@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/da677f65d1c74365a648056a6289f890/artifacts
+deleted_time: 1722150952616
 end_time: 1722088192001
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: da677f65d1c74365a648056a6289f890
 run_name: stately-ram-438
 run_uuid: da677f65d1c74365a648056a6289f890

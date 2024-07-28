@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/5dbd479edf9a4a1fb6cd26ec7eb69873/artifacts
+deleted_time: 1722150952555
 end_time: 1722090421799
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 5dbd479edf9a4a1fb6cd26ec7eb69873
 run_name: gaudy-vole-243
 run_uuid: 5dbd479edf9a4a1fb6cd26ec7eb69873

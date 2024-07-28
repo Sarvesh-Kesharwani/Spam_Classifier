@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/a9db94d78d7d4b8690f85df0e4b2b1f1/artifacts
+deleted_time: 1722151552398
+end_time: 1722151451481
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a9db94d78d7d4b8690f85df0e4b2b1f1
+run_name: first_run
+run_uuid: a9db94d78d7d4b8690f85df0e4b2b1f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722151430453
+status: 3
+tags: []
+user_id: sarvesh.kesharwani

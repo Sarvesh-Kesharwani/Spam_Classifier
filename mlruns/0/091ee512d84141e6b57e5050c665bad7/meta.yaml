@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/091ee512d84141e6b57e5050c665bad7/artifacts
+deleted_time: 1722150952404
 end_time: 1722090507936
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 091ee512d84141e6b57e5050c665bad7
 run_name: enthused-horse-126
 run_uuid: 091ee512d84141e6b57e5050c665bad7

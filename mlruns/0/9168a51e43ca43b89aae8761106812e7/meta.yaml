@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/9168a51e43ca43b89aae8761106812e7/artifacts
+deleted_time: 1722150952253
 end_time: 1722090556467
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9168a51e43ca43b89aae8761106812e7
 run_name: nebulous-carp-951
 run_uuid: 9168a51e43ca43b89aae8761106812e7

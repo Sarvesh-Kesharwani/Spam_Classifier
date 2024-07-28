@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/2fb75f0caa8a435887cb4eed4136c8af/artifacts
+deleted_time: 1722150952541
 end_time: 1722090421941
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2fb75f0caa8a435887cb4eed4136c8af
 run_name: upset-boar-138
 run_uuid: 2fb75f0caa8a435887cb4eed4136c8af

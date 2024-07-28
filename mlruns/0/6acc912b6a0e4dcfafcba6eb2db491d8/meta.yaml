@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/6acc912b6a0e4dcfafcba6eb2db491d8/artifacts
+deleted_time: 1722150952402
 end_time: 1722090507726
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6acc912b6a0e4dcfafcba6eb2db491d8
 run_name: aged-shrimp-740
 run_uuid: 6acc912b6a0e4dcfafcba6eb2db491d8

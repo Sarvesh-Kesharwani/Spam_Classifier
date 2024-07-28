@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/248254436687240956/fe22892e01624861a7ecd0baa18b1d86/artifacts
+end_time: 1722155508033
+entry_point_name: ''
+experiment_id: '248254436687240956'
+lifecycle_stage: active
+run_id: fe22892e01624861a7ecd0baa18b1d86
+run_name: Bagging
+run_uuid: fe22892e01624861a7ecd0baa18b1d86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722155485645
+status: 3
+tags: []
+user_id: sarvesh.kesharwani

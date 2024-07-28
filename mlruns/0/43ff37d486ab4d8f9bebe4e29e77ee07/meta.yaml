@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/43ff37d486ab4d8f9bebe4e29e77ee07/artifacts
+deleted_time: 1722153355805
+end_time: 1722151595113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 43ff37d486ab4d8f9bebe4e29e77ee07
+run_name: XGBoost
+run_uuid: 43ff37d486ab4d8f9bebe4e29e77ee07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722151574487
+status: 3
+tags: []
+user_id: sarvesh.kesharwani

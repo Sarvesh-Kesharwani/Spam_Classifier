@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/34034e58eb3b462398692b78e90fb275/artifacts
+deleted_time: 1722150952235
 end_time: 1722090557481
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 34034e58eb3b462398692b78e90fb275
 run_name: sneaky-stork-645
 run_uuid: 34034e58eb3b462398692b78e90fb275

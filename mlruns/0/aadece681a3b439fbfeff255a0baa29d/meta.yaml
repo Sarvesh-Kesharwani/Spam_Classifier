@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/aadece681a3b439fbfeff255a0baa29d/artifacts
+end_time: 1722155019259
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aadece681a3b439fbfeff255a0baa29d
+run_name: SVC
+run_uuid: aadece681a3b439fbfeff255a0baa29d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722154996104
+status: 3
+tags: []
+user_id: sarvesh.kesharwani

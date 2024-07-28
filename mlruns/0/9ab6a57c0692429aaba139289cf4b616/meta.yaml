@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/9ab6a57c0692429aaba139289cf4b616/artifacts
+deleted_time: 1722150952291
 end_time: 1722090545427
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9ab6a57c0692429aaba139289cf4b616
 run_name: abrasive-dove-640
 run_uuid: 9ab6a57c0692429aaba139289cf4b616

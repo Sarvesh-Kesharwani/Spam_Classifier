@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/bdfaa03b4f834b11b31f4a9dd472da23/artifacts
+deleted_time: 1722150952257
 end_time: 1722090556373
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: bdfaa03b4f834b11b31f4a9dd472da23
 run_name: adaptable-flea-97
 run_uuid: bdfaa03b4f834b11b31f4a9dd472da23

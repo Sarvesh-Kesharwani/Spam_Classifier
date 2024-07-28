@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/a3acef1ef10042f59144e13c821e09d5/artifacts
+deleted_time: 1722153355812
+end_time: 1722151595113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a3acef1ef10042f59144e13c821e09d5
+run_name: AdaBoost
+run_uuid: a3acef1ef10042f59144e13c821e09d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722151572602
+status: 3
+tags: []
+user_id: sarvesh.kesharwani

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/05972ffc7dfb48dab56ac18463c8658a/artifacts
+deleted_time: 1722152087429
+end_time: 1722151595912
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 05972ffc7dfb48dab56ac18463c8658a
+run_name: burly-bird-625
+run_uuid: 05972ffc7dfb48dab56ac18463c8658a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722151559962
+status: 3
+tags: []
+user_id: sarvesh.kesharwani

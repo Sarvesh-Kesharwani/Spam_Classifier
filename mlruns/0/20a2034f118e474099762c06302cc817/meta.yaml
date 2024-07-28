@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/20a2034f118e474099762c06302cc817/artifacts
+deleted_time: 1722150952583
 end_time: 1722090405693
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 20a2034f118e474099762c06302cc817
 run_name: loud-shad-126
 run_uuid: 20a2034f118e474099762c06302cc817

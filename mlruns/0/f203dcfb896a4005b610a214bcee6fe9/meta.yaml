@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/f203dcfb896a4005b610a214bcee6fe9/artifacts
+deleted_time: 1722150952123
 end_time: 1722095441201
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f203dcfb896a4005b610a214bcee6fe9
 run_name: bald-lamb-267
 run_uuid: f203dcfb896a4005b610a214bcee6fe9

@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/6a77ad10e74f44e6af986bee2c1ad6de/artifacts
+deleted_time: 1722150952596
 end_time: null
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6a77ad10e74f44e6af986bee2c1ad6de
 run_name: popular-robin-707
 run_uuid: 6a77ad10e74f44e6af986bee2c1ad6de

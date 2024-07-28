@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/d1836f2d43624ec9b12ef80334cc63ff/artifacts
+deleted_time: 1722150952370
 end_time: 1722090519274
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d1836f2d43624ec9b12ef80334cc63ff
 run_name: polite-kite-771
 run_uuid: d1836f2d43624ec9b12ef80334cc63ff

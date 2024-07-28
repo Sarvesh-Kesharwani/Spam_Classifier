@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/5107a5ceb0c54730866bc75b0c7eee35/artifacts
+deleted_time: 1722150952371
 end_time: 1722090508428
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 5107a5ceb0c54730866bc75b0c7eee35
 run_name: unequaled-ape-508
 run_uuid: 5107a5ceb0c54730866bc75b0c7eee35

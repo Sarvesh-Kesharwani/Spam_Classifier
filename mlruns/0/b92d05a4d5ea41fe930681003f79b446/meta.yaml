@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/b92d05a4d5ea41fe930681003f79b446/artifacts
+deleted_time: 1722150952426
 end_time: 1722090496746
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b92d05a4d5ea41fe930681003f79b446
 run_name: ambitious-hare-30
 run_uuid: b92d05a4d5ea41fe930681003f79b446

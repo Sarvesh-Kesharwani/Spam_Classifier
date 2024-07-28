@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/37c7a53c7c5d4752a16e94773b5a9df3/artifacts
+deleted_time: 1722150952334
 end_time: 1722090520124
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 37c7a53c7c5d4752a16e94773b5a9df3
 run_name: beautiful-conch-309
 run_uuid: 37c7a53c7c5d4752a16e94773b5a9df3

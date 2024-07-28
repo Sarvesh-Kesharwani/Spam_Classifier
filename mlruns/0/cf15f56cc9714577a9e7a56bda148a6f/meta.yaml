@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/0/cf15f56cc9714577a9e7a56bda148a6f/artifacts
+deleted_time: 1722150952613
 end_time: 1722090375014
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: cf15f56cc9714577a9e7a56bda148a6f
 run_name: trusting-goose-870
 run_uuid: cf15f56cc9714577a9e7a56bda148a6f

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/sarvesh.kesharwani/Pictures/DSC/Spam_Classifier/mlruns/663187352285086571/db15342b1b084416944975c453d62380/artifacts
+deleted_time: 1722155553150
+end_time: 1722155317509
+entry_point_name: ''
+experiment_id: '663187352285086571'
+lifecycle_stage: deleted
+run_id: db15342b1b084416944975c453d62380
+run_name: nosy-mole-842
+run_uuid: db15342b1b084416944975c453d62380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722155268687
+status: 3
+tags: []
+user_id: sarvesh.kesharwani
