@@ -44,8 +44,8 @@ def trainer(model_tuple):
     train_x, test_x, train_y, test_y = data_prep()
     # mlflow tracking starts here...
     # mlflow.autolog()
-    mlflow.set_experiment("test2")
-    with mlflow.start_run():
+    exp = mlflow.set_experiment(experiment_name="test2")
+    with mlflow.start_run(experiment_id=exp.experiment_id):
         # training model
         model_name, model_obj = model_tuple
         accuracy, precision = train_classifiers(model_name, model_obj, train_x, test_x, train_y, test_y)
@@ -53,6 +53,7 @@ def trainer(model_tuple):
         # mlflow.log_param('max_deapth', 4)
         mlflow.log_metric('accuracy', accuracy)
         mlflow.log_metric('precision', precision)
+        mlflow.sklearn.log_model(model_obj, model_name)
     return (accuracy, precision)
 
 if __name__ == '__main__':
