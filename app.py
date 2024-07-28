@@ -35,7 +35,3 @@ if st.button('Predict'):
     else:
         st.header("Not Spam")
 
-tfidf = pickle.load(open(r'C:\Users\sarvesh.kesharwani\Pictures\DSC\Spam_Classifier\artifacts\tfidf_vectorizer.pkl', 'rb'))
-model = pickle.load(open(r'C:\Users\sarvesh.kesharwani\Pictures\DSC\Spam_Classifier\artifacts\model_mnb.pkl', 'rb'))
-
-
